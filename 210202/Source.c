@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+// git test
+
 void main()
 {
 	int id[100]; //주문번호라고 한다면, 0이나 문자가 올수 잇으니까 문자열로 받아라. 
